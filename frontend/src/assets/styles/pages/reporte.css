@@ -1,0 +1,7 @@
+
+@media screen and (max-width:768px) {
+    .reporte__boton{
+        width:100%;
+        margin-bottom:24px !important;
+    }
+}

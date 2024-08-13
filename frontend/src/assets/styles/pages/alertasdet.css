@@ -1,0 +1,9 @@
+.mapa{
+    height: 100vh;
+}
+@media screen and (max-width:768px) {
+    .mapa{
+        height: 50vh;
+    }
+    
+}

@@ -1,0 +1,66 @@
+{
+  "name": "frontend-giz",
+  "version": "0.1.0",
+  "proxy": "http://localhost:3072",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@geoman-io/leaflet-geoman-free": "^2.11.4",
+    "@matharumanpreet00/react-daterange-picker": "^1.0.5",
+    "@mui/icons-material": "^5.0.3",
+    "@mui/lab": "^5.0.0-alpha.55",
+    "@mui/material": "^5.0.3",
+    "@mui/styled-engine-sc": "^5.0.3",
+    "@mui/styles": "^5.0.1",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.23.0",
+    "date-fns": "^2.26.0",
+    "file-saver": "^2.0.5",
+    "formik": "^2.2.9",
+    "highcharts": "^9.3.0",
+    "highcharts-react-official": "^3.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "jspdf": "^2.4.0",
+    "jspdf-autotable": "^3.5.20",
+    "leaflet": "^1.7.1",
+    "react": "^17.0.2",
+    "react-date-range": "^1.4.0",
+    "react-dom": "^17.0.2",
+    "react-draggable": "^4.4.4",
+    "react-leaflet": "^3.2.1",
+    "react-leaflet-control": "^2.1.2",
+    "react-leaflet-markercluster": "^3.0.0-rc1",
+    "react-pdf": "^7.1.2",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.3",
+    "react-table": "^7.7.0",
+    "react-table-plugins": "^1.3.2",
+    "socket.io-client": "^4.6.1",
+    "styled-components": "^5.3.1",
+    "web-vitals": "^1.0.1",
+    "xlsx": "^0.17.3",
+    "xlsx-populate": "^1.21.0",
+    "xlsx-style": "^0.8.13",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
